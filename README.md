@@ -1,1 +1,2 @@
 # GymBoom
+Martin egy kutya
